@@ -2,7 +2,7 @@
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
-### Instructions for playing the game
+### Instructions for playing the game TD
 
 1. Press the space bar to begin.
 2. Use the up and down arrow keys to rotate the shape.
